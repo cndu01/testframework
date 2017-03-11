@@ -57,7 +57,7 @@ public class AmpPageValidation extends ApplicationKeywords{
 			validateAMPPage(url2);
 			validateAMPPage(url3);
 			validateAMPPage(url4);
-			validateAMPPage(url5);
+			//validateAMPPage(url5);
 
 		} else {
 			
